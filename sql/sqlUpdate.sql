@@ -1,0 +1,1 @@
+UPDATE j34_users_2 SET activation = 1 WHERE id = '1';UPDATE j34_users_2 SET activation = 1 WHERE id = '2';UPDATE j34_users_2 SET activation = 1 WHERE id = '3';UPDATE j34_users_2 SET activation = 1 WHERE id = '4';UPDATE j34_users_2 SET activation = 1 WHERE id = '5';UPDATE j34_users_2 SET activation = 1 WHERE id = '6'
